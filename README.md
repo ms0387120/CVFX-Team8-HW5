@@ -59,16 +59,14 @@
 ### Example1. Motion parallax
 
 ### Example2. Stop motion
-
 * Generate GIF with original pictures without any effects
 
-![](https://i.imgur.com/z1nlziv.gif)
+![](output.gif)
 
 * 問題
 
     - 在做 alignment 後，生成的圖片會有黑邊跑出來
     - 先對黑邊做預處理，效果可能會更好
-
 
 ### Example3. Live photo
 
