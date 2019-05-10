@@ -61,7 +61,7 @@
 ### Example2. Stop motion
 * Generate GIF with original pictures without any effects
 
-![](output.gif)
+[Imgur](https://i.imgur.com/z1nlziv.gifv)
 
 * 問題
 
