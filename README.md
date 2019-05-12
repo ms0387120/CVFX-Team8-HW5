@@ -107,3 +107,26 @@
 
 
 ---
+
+
+## Motion Parallax
+### 取材
+首先錄一段往右平移的影片，然後擷取其中兩個frame作為視差的兩張圖片
+![](https://i.imgur.com/A1zbYv7.jpg)
+
+### 方法
+根據 https://www.adorama.com/alc/0011780/article/Wiggle-3D-How-To-Make-Animated-3D-Images 的方法來實作Motion Parallax(Wiggle Photo)
+1. 使用修圖軟體(在此使用GIMP)載入兩張圖片
+2. 將layer上面的圖片透明度設為50%
+3. 將兩張圖片疊起來（可以使用alignment的方式，然而實際測試後，人工疊起來應該就足夠了，alignment造成的變形造成效果反而不是那麼的好）
+4. 裁切掉邊邊照片沒有重疊的部分
+5. 使用GIMP內建的Animation功能，然後輸出成GIF（同時設定切換週期為何）
+### 成果
+- 間隔60ms
+![](https://i.imgur.com/fjlVnH0.gif)
+- 間隔 100ms
+![](https://i.imgur.com/i4BQBSS.gif)
+- 間隔 500ms
+![](https://i.imgur.com/hRwDkhM.gif) 
+
+另外觀察成果後可以發現除了對齊的好壞之外，如果切換影像的速度太慢，立體感也會跟著變差。太快也會不太自然就是了
