@@ -69,9 +69,9 @@
 
 ### Example3. Live photo
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![](http://img.youtube.com/vi/y1VHWk_uXmk/0.jpg)](http://www.youtube.com/watch?v=y1VHWk_uXmk "Live photo")
 
-
+https://youtu.be/y1VHWk_uXmk
 ---
 ## 4. Exploit creativity to add some image processing to enhance effect
 
