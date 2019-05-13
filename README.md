@@ -105,7 +105,7 @@
 ---
 
 
-## Example3.Motion Parallax
+## Bonus.Motion Parallax
 ### 取材
 首先錄一段往右平移的影片，然後擷取其中兩個frame作為視差的兩張圖片
 ![](https://i.imgur.com/A1zbYv7.jpg)
