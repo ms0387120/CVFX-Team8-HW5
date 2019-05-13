@@ -48,7 +48,7 @@
 
 
 ### Example3. Live photo
-
+![](https://imgur.com/TyuUjVR.jpg)
 
 
 
