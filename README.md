@@ -71,7 +71,6 @@
 
 [![](http://img.youtube.com/vi/y1VHWk_uXmk/0.jpg)](http://www.youtube.com/watch?v=y1VHWk_uXmk "Live photo")
 
-https://youtu.be/y1VHWk_uXmk
 ---
 ## 4. Exploit creativity to add some image processing to enhance effect
 
