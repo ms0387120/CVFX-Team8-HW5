@@ -15,8 +15,7 @@
 ![](https://i.imgur.com/b8bSrcW.jpg)
 
 ### Example3. Live photo
-
-
+![](https://imgur.com/EMjJ1VO.jpg)
 
 ---
 ## 2. Show image alignment results between different images
