@@ -102,6 +102,7 @@ https://youtu.be/y1VHWk_uXmk
 
 ### Example3. Live photo
 
+[![](http://img.youtube.com/vi/c48Nf3o9jOg/0.jpg)](http://www.youtube.com/watch?v=c48Nf3o9jOg "Live photo2")
 
 
 
