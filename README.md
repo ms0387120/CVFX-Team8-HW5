@@ -1,4 +1,4 @@
-# CVFX-Team8-HW5-Multiview 3D visual effects
+# CVFX-HW5-Multiview 3D visual effects
 
 
 ## 1. Take multi-view images by yourselves
