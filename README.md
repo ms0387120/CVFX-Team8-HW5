@@ -21,7 +21,6 @@
 ---
 ## 2. Show image alignment results between different images
 
-### Example1. Motion parallax
 
 ### Example2. Stop motion
 * 採用**SIFT**
@@ -49,6 +48,7 @@
 
 
 ### Example3. Live photo
+* 先Detect ORB features，然後再做Image alignment，alingment後會有黑邊，再把它們裁切掉(因為本來的照片傾斜不嚴重，所以裁切掉的不多)
 ![](https://imgur.com/TyuUjVR.jpg)
 
 
@@ -75,7 +75,6 @@
 ---
 ## 4. Exploit creativity to add some image processing to enhance effect
 
-### Example1. Motion parallax
 
 ### Example2. Stop motion
 * 針對第三部分的問題做優化動作，以解決黑邊問題
@@ -101,7 +100,7 @@
     - 桌面、線材材質表現正常，不會讓人感覺很突兀
 
 ### Example3. Live photo
-
+* 加上imovie裡的交疊特效，使得照片與照片之間轉換的更滑順。
 [![](http://img.youtube.com/vi/c48Nf3o9jOg/0.jpg)](http://www.youtube.com/watch?v=c48Nf3o9jOg "Live photo2")
 
 
