@@ -15,6 +15,7 @@
 ![](https://i.imgur.com/b8bSrcW.jpg)
 
 ### Example3. Live photo
+* 連續拍攝約25張照片，記錄校園公車。
 ![](https://imgur.com/EMjJ1VO.jpg)
 
 ---
