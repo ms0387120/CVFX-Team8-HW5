@@ -3,9 +3,8 @@
 
 ## 1. Take multi-view images by yourselves
 
-### Example1. Motion parallax
 
-### Example2. Stop motion
+### Example1. Stop motion
 * 原始照片
 
 | 順序一 | 順序二 | 順序三 |
@@ -14,7 +13,7 @@
 
 ![](https://i.imgur.com/b8bSrcW.jpg)
 
-### Example3. Live photo
+### Example2. Live photo
 * 連續拍攝約25張照片，記錄校園公車。
 ![](https://imgur.com/EMjJ1VO.jpg)
 
@@ -22,7 +21,7 @@
 ## 2. Show image alignment results between different images
 
 
-### Example2. Stop motion
+### Example1. Stop motion
 * 採用**SIFT**
 * Alignment matched
 
@@ -47,7 +46,7 @@
 
 
 
-### Example3. Live photo
+### Example2. Live photo
 * 先Detect ORB features，然後再做Image alignment，alingment後會有黑邊，再把它們裁切掉(因為本來的照片傾斜不嚴重，所以裁切掉的不多)
 ![](https://imgur.com/TyuUjVR.jpg)
 
@@ -56,9 +55,7 @@
 ---
 ## 3. Generate the multi-view 3D visual effects
 
-### Example1. Motion parallax
-
-### Example2. Stop motion
+### Example1. Stop motion
 * Generate GIF with original pictures without any effects
 
 ![](output.gif)
@@ -68,7 +65,7 @@
     - 在做 alignment 後，生成的圖片會有黑邊跑出來
     - 先對黑邊做預處理，效果可能會更好
 
-### Example3. Live photo
+### Example2. Live photo
 
 [![](http://img.youtube.com/vi/y1VHWk_uXmk/0.jpg)](http://www.youtube.com/watch?v=y1VHWk_uXmk "Live photo")
 
@@ -76,7 +73,7 @@
 ## 4. Exploit creativity to add some image processing to enhance effect
 
 
-### Example2. Stop motion
+### Example1. Stop motion
 * 針對第三部分的問題做優化動作，以解決黑邊問題
 * 使用過去作業所做的GAN，進行補圖
 > hw3 Inpainting
@@ -99,7 +96,7 @@
     - 至少沒有黑邊出現
     - 桌面、線材材質表現正常，不會讓人感覺很突兀
 
-### Example3. Live photo
+### Example2. Live photo
 * 加上imovie裡的交疊特效，使得照片與照片之間轉換的更滑順。
 [![](http://img.youtube.com/vi/c48Nf3o9jOg/0.jpg)](http://www.youtube.com/watch?v=c48Nf3o9jOg "Live photo2")
 
@@ -108,7 +105,7 @@
 ---
 
 
-## Motion Parallax
+## Example3.Motion Parallax
 ### 取材
 首先錄一段往右平移的影片，然後擷取其中兩個frame作為視差的兩張圖片
 ![](https://i.imgur.com/A1zbYv7.jpg)
